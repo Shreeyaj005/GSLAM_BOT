@@ -1,0 +1,6 @@
+source;share/gslam_bot/hook/pythonpath.ps1
+source;share/gslam_bot/hook/pythonpath.dsv
+source;share/gslam_bot/hook/pythonpath.sh
+source;share/gslam_bot/hook/ament_prefix_path.ps1
+source;share/gslam_bot/hook/ament_prefix_path.dsv
+source;share/gslam_bot/hook/ament_prefix_path.sh

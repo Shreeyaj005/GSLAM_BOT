@@ -1,0 +1,46 @@
+running egg_info
+creating ../../build/gslam_bot/gslam_bot.egg-info
+writing ../../build/gslam_bot/gslam_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/gslam_bot/gslam_bot.egg-info/dependency_links.txt
+writing entry points to ../../build/gslam_bot/gslam_bot.egg-info/entry_points.txt
+writing requirements to ../../build/gslam_bot/gslam_bot.egg-info/requires.txt
+writing top-level names to ../../build/gslam_bot/gslam_bot.egg-info/top_level.txt
+writing manifest file '../../build/gslam_bot/gslam_bot.egg-info/SOURCES.txt'
+reading manifest file '../../build/gslam_bot/gslam_bot.egg-info/SOURCES.txt'
+writing manifest file '../../build/gslam_bot/gslam_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/shreeya/gs_slam/build/gslam_bot/build
+creating /home/shreeya/gs_slam/build/gslam_bot/build/lib
+creating /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot
+copying gslam_bot/simple_node.py -> /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot
+copying gslam_bot/__init__.py -> /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot
+running install
+running install_lib
+creating /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot
+copying /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot/simple_node.py -> /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot
+copying /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot/__init__.py -> /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot
+byte-compiling /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot/simple_node.py to simple_node.cpython-310.pyc
+byte-compiling /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/shreeya/gs_slam/install/gslam_bot/share/ament_index
+creating /home/shreeya/gs_slam/install/gslam_bot/share/ament_index/resource_index
+creating /home/shreeya/gs_slam/install/gslam_bot/share/ament_index/resource_index/packages
+copying resource/gslam_bot -> /home/shreeya/gs_slam/install/gslam_bot/share/ament_index/resource_index/packages
+copying package.xml -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot
+creating /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/urdf
+copying urdf/two_wheel_robot.urdf.xacro -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/urdf
+creating /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/config
+copying config/slam_toolbox_params.yaml -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/config
+copying config/diff_drive_controllers.yaml -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/config
+creating /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+copying launch/launch_robot.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+copying launch/slam.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+copying launch/gazebo.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+copying launch/display_robot.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+creating /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/worlds
+copying worlds/empty_world.world -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/worlds
+running install_egg_info
+Copying ../../build/gslam_bot/gslam_bot.egg-info to /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot-0.0.1-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/shreeya/gs_slam/build/gslam_bot/install.log'

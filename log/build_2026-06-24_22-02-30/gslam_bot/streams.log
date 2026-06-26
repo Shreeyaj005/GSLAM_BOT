@@ -1,0 +1,48 @@
+[0.691s] Invoking command in '/home/shreeya/gs_slam/src/gslam_bot': PYTHONPATH=/home/shreeya/gs_slam/build/gslam_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gslam_bot build --build-base /home/shreeya/gs_slam/build/gslam_bot/build install --record /home/shreeya/gs_slam/build/gslam_bot/install.log --single-version-externally-managed install_data
+[0.909s] running egg_info
+[0.910s] creating ../../build/gslam_bot/gslam_bot.egg-info
+[0.910s] writing ../../build/gslam_bot/gslam_bot.egg-info/PKG-INFO
+[0.910s] writing dependency_links to ../../build/gslam_bot/gslam_bot.egg-info/dependency_links.txt
+[0.911s] writing entry points to ../../build/gslam_bot/gslam_bot.egg-info/entry_points.txt
+[0.911s] writing requirements to ../../build/gslam_bot/gslam_bot.egg-info/requires.txt
+[0.911s] writing top-level names to ../../build/gslam_bot/gslam_bot.egg-info/top_level.txt
+[0.911s] writing manifest file '../../build/gslam_bot/gslam_bot.egg-info/SOURCES.txt'
+[0.913s] reading manifest file '../../build/gslam_bot/gslam_bot.egg-info/SOURCES.txt'
+[0.913s] writing manifest file '../../build/gslam_bot/gslam_bot.egg-info/SOURCES.txt'
+[0.914s] running build
+[0.914s] running build_py
+[0.914s] creating /home/shreeya/gs_slam/build/gslam_bot/build
+[0.914s] creating /home/shreeya/gs_slam/build/gslam_bot/build/lib
+[0.914s] creating /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot
+[0.914s] copying gslam_bot/simple_node.py -> /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot
+[0.914s] copying gslam_bot/__init__.py -> /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot
+[0.915s] running install
+[0.915s] running install_lib
+[0.916s] creating /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot
+[0.916s] copying /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot/simple_node.py -> /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot
+[0.916s] copying /home/shreeya/gs_slam/build/gslam_bot/build/lib/gslam_bot/__init__.py -> /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot
+[0.917s] byte-compiling /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot/simple_node.py to simple_node.cpython-310.pyc
+[0.917s] byte-compiling /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot/__init__.py to __init__.cpython-310.pyc
+[0.917s] running install_data
+[0.918s] creating /home/shreeya/gs_slam/install/gslam_bot/share/ament_index
+[0.918s] creating /home/shreeya/gs_slam/install/gslam_bot/share/ament_index/resource_index
+[0.918s] creating /home/shreeya/gs_slam/install/gslam_bot/share/ament_index/resource_index/packages
+[0.918s] copying resource/gslam_bot -> /home/shreeya/gs_slam/install/gslam_bot/share/ament_index/resource_index/packages
+[0.918s] copying package.xml -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot
+[0.918s] creating /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/urdf
+[0.918s] copying urdf/two_wheel_robot.urdf.xacro -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/urdf
+[0.919s] creating /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/config
+[0.919s] copying config/slam_toolbox_params.yaml -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/config
+[0.919s] copying config/diff_drive_controllers.yaml -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/config
+[0.919s] creating /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+[0.919s] copying launch/launch_robot.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+[0.919s] copying launch/slam.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+[0.919s] copying launch/gazebo.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+[0.919s] copying launch/display_robot.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+[0.919s] creating /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/worlds
+[0.920s] copying worlds/empty_world.world -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/worlds
+[0.920s] running install_egg_info
+[0.921s] Copying ../../build/gslam_bot/gslam_bot.egg-info to /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot-0.0.1-py3.10.egg-info
+[0.922s] running install_scripts
+[0.947s] writing list of installed files to '/home/shreeya/gs_slam/build/gslam_bot/install.log'
+[1.006s] Invoked command in '/home/shreeya/gs_slam/src/gslam_bot' returned '0': PYTHONPATH=/home/shreeya/gs_slam/build/gslam_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gslam_bot build --build-base /home/shreeya/gs_slam/build/gslam_bot/build install --record /home/shreeya/gs_slam/build/gslam_bot/install.log --single-version-externally-managed install_data

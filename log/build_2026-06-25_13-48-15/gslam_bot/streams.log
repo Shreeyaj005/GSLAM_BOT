@@ -1,0 +1,21 @@
+[0.740s] Invoking command in '/home/shreeya/gs_slam/src/gslam_bot': PYTHONPATH=/home/shreeya/gs_slam/build/gslam_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gslam_bot build --build-base /home/shreeya/gs_slam/build/gslam_bot/build install --record /home/shreeya/gs_slam/build/gslam_bot/install.log --single-version-externally-managed install_data
+[0.952s] running egg_info
+[0.953s] writing ../../build/gslam_bot/gslam_bot.egg-info/PKG-INFO
+[0.955s] writing dependency_links to ../../build/gslam_bot/gslam_bot.egg-info/dependency_links.txt
+[0.955s] writing entry points to ../../build/gslam_bot/gslam_bot.egg-info/entry_points.txt
+[0.955s] writing requirements to ../../build/gslam_bot/gslam_bot.egg-info/requires.txt
+[0.955s] writing top-level names to ../../build/gslam_bot/gslam_bot.egg-info/top_level.txt
+[0.960s] reading manifest file '../../build/gslam_bot/gslam_bot.egg-info/SOURCES.txt'
+[0.961s] writing manifest file '../../build/gslam_bot/gslam_bot.egg-info/SOURCES.txt'
+[0.961s] running build
+[0.961s] running build_py
+[0.962s] running install
+[0.962s] running install_lib
+[0.964s] running install_data
+[0.964s] copying launch/launch_robot.launch.py -> /home/shreeya/gs_slam/install/gslam_bot/share/gslam_bot/launch
+[0.964s] running install_egg_info
+[0.966s] removing '/home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot-0.0.1-py3.10.egg-info' (and everything under it)
+[0.966s] Copying ../../build/gslam_bot/gslam_bot.egg-info to /home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages/gslam_bot-0.0.1-py3.10.egg-info
+[0.967s] running install_scripts
+[0.987s] writing list of installed files to '/home/shreeya/gs_slam/build/gslam_bot/install.log'
+[1.025s] Invoked command in '/home/shreeya/gs_slam/src/gslam_bot' returned '0': PYTHONPATH=/home/shreeya/gs_slam/build/gslam_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shreeya/gs_slam/install/gslam_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gslam_bot build --build-base /home/shreeya/gs_slam/build/gslam_bot/build install --record /home/shreeya/gs_slam/build/gslam_bot/install.log --single-version-externally-managed install_data
